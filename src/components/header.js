@@ -11,7 +11,7 @@ const Header = () => {
           </div>
            <div className='menu' 
             >
-            <a href="https://s3.amazonaws.com/archivos-cvonline/assets/pdf/890771/BlackProfessionalResume-5.pdf" target="_blank" >RESUMÉ</a> 
+            <a href="https://patience-creator.github.io/POCV/" target="_blank" >RESUMÉ</a> 
   
 </div>
   </div>    

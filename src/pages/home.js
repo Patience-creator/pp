@@ -28,7 +28,7 @@ const Home = ({ imageDetails, image }) => (
             >
               <div className="frame">
                 <span className="homeimgtext">
-                  Click me <br />
+                  Click photo <br />
                   to continue
                 </span>
                 <Link to={`/model/patienceora`}>

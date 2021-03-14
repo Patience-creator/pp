@@ -18,7 +18,7 @@ export default function works() {
               {meisje} />  
         <a className='polo__title' href="https://github.com/Patience-creator/airbnb-clone" target="_blank">  <FaGithub/> 
        <span className="caption"> View code</span> </a> <a href="https://airbnb-clone-pied.vercel.app" target="_blank" className= "polo__title caption"><FaEye/> View site</a> 
-        <p className="para"> REACT JS </p>
+        <p className="para"> REACT  </p>
       </div>
  
        
@@ -31,7 +31,7 @@ export default function works() {
     {net} />
       <a className='polo__title' href="https://github.com/Patience-creator/Netflix-clone" target="_blank">  <FaGithub/> 
      <span className="caption"> View code</span> </a> <a href="https://netflix-clone-dbgvvskv8.vercel.app" target="_blank" className= "polo__title caption"><FaEye/> View site</a> 
-   <p className="para"> REACT JS, CSS, API, FIREBASE  </p>
+   <p className="para"> REACT JS, CSS, API   </p>
       </div>
    
     </div>
@@ -44,7 +44,7 @@ export default function works() {
       
        <a className='polo__title' href="https://github.com/Patience-creator/amazon-clone" target="_blank">  <FaGithub/> 
       <span className="caption"> View code</span> </a> <a href="#" target="_blank" className= "polo__title caption"><FaEye/> View site</a> 
-       <p className="para"> REACT JS, CSS, API,FIREBASE  </p>
+       <p className="para"> REACT JS, CSS   </p>
       </div>
     
      </div>
@@ -54,9 +54,9 @@ export default function works() {
        
        {gg} />
         
-        <a className='polo__title' href="https://github.com/Patience-creator/blogwebsite" target="_blank">  <FaGithub/> 
-      <span className="caption"> View code</span> </a> <a href="#" target="_blank" className= "polo__title caption"><FaEye/> View site</a> 
-      <p className="para"> REACT JS, CSS, API, FIREBASE</p>
+        <a className='polo__title' href="https://github.com/Patience-creator/adviceapp" target="_blank">  <FaGithub/> 
+      <span className="caption"> View code</span> </a> <a href="https://adviceapp.vercel.app" target="_blank" className= "polo__title caption"><FaEye/> View site</a> 
+      <p className="para"> REACT JS, CSS, API</p>
       </div>
     
      </div>
@@ -76,8 +76,8 @@ export default function works() {
        <div className="polaroid"><img  className="popo" src=
       
         {beach} />
-      <a className='polo__title' href="https://patience-creator.github.io/E-commerce-html/" target="_blank">  <FaGithub/> 
-      <span className="caption"> View code</span> </a> <a href="https://github.com/Patience-creator/E-commerce-html.git" target="_blank" className= "polo__title caption"><FaEye/> View site</a> 
+      <a className='polo__title' href="https://github.com/Patience-creator/loadedsounds" target="_blank">  <FaGithub/> 
+      <span className="caption"> View code</span> </a> <a href="https://patience-creator.github.io/loadedsounds/" target="_blank" className= "polo__title caption"><FaEye/> View site</a> 
    <p className="para"> HTML, CSS, BOOTSTRAP,JQUARY, GSAP </p>
        </div>
        </div>
